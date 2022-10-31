@@ -1,9 +1,9 @@
-# package_name
+# Descomplicando a criação de pacotes de processamento de imagens em Python
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+Neste projeto será criado um pacote de processamento de imagens em Python e disponibilizado
+no repositório Pypi. Sendo possível reutilizá-lo facilmente e compartilhá-lo com outras pessoas. 
+
+
 
 ## Installation
 
@@ -20,8 +20,5 @@ from package_name.module1_name import file1_name
 file1_name.my_function()
 ```
 
-## Author
-My_name
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
